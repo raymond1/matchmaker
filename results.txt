@@ -1,0 +1,16 @@
+{"product_name":"Fujifilm_FinePix_JZ500","listings":[{"title":"FUJIFILM FinePix JZ500","price":"152.32","manufacturer":"FUJIFILM","currency":"GBP"}]}
+{"product_name":"Canon_PowerShot_G1","listings":[{"title":"Canon Powershot G1","price":"69.99","manufacturer":"Canon","currency":"GBP"}]}
+{"product_name":"Leica_D-LUX_5","listings":[{"title":"Leica D-LUX 5","price":"685.00","manufacturer":"Leica","currency":"EUR"}]}
+{"product_name":"Canon_PowerShot_A3000_IS","listings":[{"title":"CANON PowerShot A3000 IS","price":"95.89","manufacturer":"Canon","currency":"GBP"}]}
+{"product_name":"Panasonic_Lumix_DMC-FT10","listings":[{"title":"Panasonic Lumix DMC-FT10","price":"198.49","manufacturer":"Panasonic","currency":"GBP"}]}
+{"product_name":"Leica_V-LUX_20","listings":[{"title":"leica v-lux 20","price":"549.00","manufacturer":"Leica","currency":"EUR"}]}
+{"product_name":"Samsung_WB600","listings":[{"title":"SAMSUNG WB600","price":"165.33","manufacturer":"Samsung","currency":"GBP"}]}
+{"product_name":"Samsung-ES17","listings":[{"title":"Samsung ES17","price":"97.14","manufacturer":"Samsung","currency":"EUR"}]}
+{"product_name":"Canon_PowerShot_G11","listings":[{"title":"Canon Powershot G11","price":"587.22","manufacturer":"Canon","currency":"GBP"}]}
+{"product_name":"Fujifilm_FinePix_HS10","listings":[{"title":"FUJIFILM FinePix HS10","price":"353.33","manufacturer":"FUJIFILM","currency":"GBP"}]}
+{"product_name":"Canon_PowerShot_A480","listings":[{"title":"Canon Powershot A480","price":"102.00","manufacturer":"Canon","currency":"EUR"}]}
+{"product_name":"Samsung_PL150","listings":[{"title":"SAMSUNG PL150","price":"141.95","manufacturer":"Samsung","currency":"GBP"}]}
+{"product_name":"Olympus_mju_7000","listings":[{"title":"olympus µ[mju:] 7000","price":"291.14","manufacturer":"Olympus","currency":"GBP"}]}
+{"product_name":"Fujifilm_FinePix_X100","listings":[{"title":"Fujifilm Finepix X100","price":"1199.00","manufacturer":"FUJIFILM","currency":"EUR"}]}
+{"product_name":"Sony-DSC-TX100V","listings":[{"title":"Sony DSC-TX100V","price":"349.58","manufacturer":"Sony","currency":"GBP"}]}
+{"product_name":"Nikon_Coolpix_P7000","listings":[{"title":"NIKON Coolpix P7000","price":"634.99","manufacturer":"Nikon","currency":"EUR"}]}
