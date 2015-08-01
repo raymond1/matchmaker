@@ -1,3 +1,3 @@
 Matchmaker matches products with listings. It counts as a match products and listings with the same sanitized names for the product_name and title fields of the product and listing JSON objects.
 
-To run Matchmaker, you need to first download the files and then compile it by typing in ./go.sh from within the src directory. You can then run the command "scala Matchmaker.Matchmaker" in order to see the code in action.
+To run Matchmaker, you need to first download the files and then compile it by typing in ./go.sh from within the directory containing the go.sh file. You can then run the command "scala Matchmaker.Matchmaker" in order to see the code in action.
