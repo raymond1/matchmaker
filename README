@@ -1,0 +1,1 @@
+Matchmaker matches products with listings. It counts as a match products and listings with the same sanitized names for the product_name and title fields of the product and listing JSON objects.
